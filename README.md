@@ -3,13 +3,13 @@
 Oyunudaki amaç, mavi varillerin hepsini bulup Yeşil bölgeye getirmek
 
 
-WASD ile karaketri hareket etme
-Shift + W ile koşma
-Space ile zıplama
+	WASD ile karaketri hareket etme
+	Shift + W ile koşma
+	Space ile zıplama
 
-E ile yerdeki elmasları toplayıp güç kazanma
+	E ile yerdeki elmasları toplayıp güç kazanma
 
-Mouse ile etrafa bakma
-Mouse Sağ tık ile MAVİ VARİLLERİ tutup taşıma
-Mouse Sol tık ile Taşınan varilleri fırlatma
+	Mouse ile etrafa bakma
+	Mouse Sağ tık ile MAVİ VARİLLERİ tutup taşıma
+	Mouse Sol tık ile Taşınan varilleri fırlatma
 
