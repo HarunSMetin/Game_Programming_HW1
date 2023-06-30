@@ -12,3 +12,10 @@
  <li>Mouse Sağ tık ile MAVİ VARİLLERİ tutup taşıma</li>
  <li>Mouse Sol tık ile Taşınan varilleri fırlatma</li>
 </ul>
+
+<h3>Oyunu yaparken zorlandığım noktalar</h3></br>
+<ul>
+ <p>Karakter,ileri geri harektelerini yaparken bazen yerden 0.2 yukarı kalkıyordu. Kodumu defalarca analiz ettikten sonra yerdeki colliderin Convex olduğunu farkettim. Colliderın convex özelliğini kaldırınca sorun çözüldü.</p>
+<p>Diğer zorluk ise çift zıplama bazen çalışmıyordu onu halletmek için biraz zaman harcadım.</p>
+<p> Ayrıca harektlere animasyon eklediğim biraz zamanımı aldı.</p>
+</ul>
