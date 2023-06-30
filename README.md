@@ -19,3 +19,7 @@
 <p>Diğer zorluk ise çift zıplama bazen çalışmıyordu onu halletmek için biraz zaman harcadım.(IsGrounded kontrolü yapan raycast fonksiyonu ekledim)</p>
 <p> Ayrıca harektlere animasyon eklediğim biraz zamanımı aldı.</p>
 </ul>
+</br> 
+<i>Harun Serkan Metin</i>
+</br> 
+<i>201101034</i>
