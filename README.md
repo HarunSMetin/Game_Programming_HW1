@@ -1,5 +1,6 @@
 # BIL_424_Odev1
-
+ 
+<a href="https://drive.google.com/file/d/1Uwc6xf6aWUIX_cmE_9cjtUDmfuduZXBX/view?usp=sharing">Buraya Tıklayarak Demo Videosunu İzleyebilirisiniz<a>
 <h3>Oyunudaki amaç, mavi varillerin hepsini bulup Yeşil bölgeye getirmek</h3></br>
 <ul>
  <li>WASD ile karaketri hareket etme</li>
